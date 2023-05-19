@@ -13,20 +13,16 @@ I know that many people have their own plotters or mini cnc milling machines, or
 ![Image of Anycubic by Mario](https://github.com/mario73z/buffs-and-Tap-for-DIY-in-voron/blob/main/Jpg/20230516_125437371_iOS-m.jpg)
 
 XY reinforcements
-The only printed element is the stop end stop for X. The rest can be cut on cnc or by hand and thread M5 holes in the lower elements. We need to cut the tube (precisely)
+The only printed element is the stop end stop for X. The rest can be cut on cnc or by hand and thread M5 holes in the lower elements.
 
+We need to cut the tube (precisely)
 4x30mm
-
 2x20mm
-
 8x10mm
 
 Screws for threaded elements
-
 M5x35 - 10 pcs
-
 M5x45-2pcs
-
 10 washers M5x1mm
 
 we twist and we have a rigid connection, it worked perfectly for me.
