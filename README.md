@@ -12,7 +12,7 @@ I know that many people have their own plotters or mini cnc milling machines, or
 
 ![Image of Anycubic by Mario](https://github.com/mario73z/buffs-and-Tap-for-DIY-in-voron/blob/main/Jpg/20230516_125437371_iOS-m.jpg)
 
-XY reinforcements
+XY reinforcements<br/>
 The only printed element is the stop end stop for X. The rest can be cut on cnc or by hand and thread M5 holes in the lower elements.
 
 We need to cut the tube (precisely)<br/>
