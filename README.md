@@ -15,18 +15,18 @@ I know that many people have their own plotters or mini cnc milling machines, or
 XY reinforcements
 The only printed element is the stop end stop for X. The rest can be cut on cnc or by hand and thread M5 holes in the lower elements.
 
-We need to cut the tube (precisely)/><br/>
-4x30mm/><br/>
-2x20mm/><br/>
+We need to cut the tube (precisely)<br/>
+4x30mm<br/>
+2x20mm<br/>
 8x10mm/><br/>
 
-Screws for threaded elements/><br/>
-M5x35 - 10 pcs/><br/>
+Screws for threaded elements<br/>
+M5x35 - 10 pcs<br/>
 M5x45-2pcs/><br/>
-10 washers M5x1mm/><br/>
+10 washers M5x1mm<br/>
 
 we twist and we have a rigid connection, it worked perfectly for me.
-  Most questions will be answered by looking at the design in the CAD catalog file for DesignSpark Mechanical./><br/>
+  Most questions will be answered by looking at the design in the CAD catalog file for DesignSpark Mechanical.<br/>
 
 TAP
 As before, we cut out elements from 2mm sheet metal and thread selected M3 holes. We print elements from the STL catalog. In some cases, it will probably be necessary to change the attachment element of the optical endstop for "Z", depending on its type. (I have my own design) You will need to change it in DesignSpark Mechanical.
