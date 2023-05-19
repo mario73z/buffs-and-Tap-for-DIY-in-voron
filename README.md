@@ -4,6 +4,7 @@ Inexpensive reinforcements with a tap for self-made for voron 2.4
 Hello
 
 Over three years ago I built my first voron, then still 2.2. I have it in a rather large size 450*3. As after these few years it is quite different from the current news, it's time to update the printer. New electronics M8P+CB1 and EBB Can 2209 arrived, also voron-tap.
+
 After these updates and the resulting increase in the weight of the entire head, it turned out to be necessary to reduce the "max_accel" parameter and extend the entire printing process.
 The main reason after the initial measurements turned out to be the plastic connections of the Tap (3D printing) and the connections of the bogies on the "Y" axis
 There are several ready-made solutions on the CNC market for these stiffeners, but I like to do something myself. And this is how I designed the "X" and "Y" reinforcements and Tap.
