@@ -45,6 +45,8 @@ As before, we cut out elements from 2mm sheet metal and thread selected M3 holes
 
 This project works perfectly for me. There is a noticeable change in the stiffness of the entire carriage with the extender.
 
+![Video of Tap by Mario](https://github.com/mario73z/buffs-and-Tap-for-DIY-in-voron/blob/main/Jpg/tap-run.gif)
+
 Some CAD design elements were downloaded from https://github.com/VoronDesign/
 
 Although it is a simple project, I strongly encourage you to familiarize yourself with the project and your own skills for such work before someone decides to make changes to the printer. And reinforcements and Tap in the CNC version can be purchased ready on the market for several dozen euros. I am not responsible for any failures and possible defects. Of course, this does not exclude possible substantive assistance on my part. Be careful and good luck. ;)
