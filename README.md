@@ -36,6 +36,13 @@ We twist and we have a rigid connection, it worked perfectly for me.
 ## TAP<br/>
 As before, we cut out elements from 2mm sheet metal and thread selected M3 holes. We print elements from the STL catalog. In some cases, it will probably be necessary to change the attachment element of the optical endstop for "Z", depending on its type. (I have my own design) You will need to change it in DesignSpark Mechanical.
 I pasted the magnet for the tap 7/3mm.
+![Image of Tap by Mario](https://github.com/mario73z/buffs-and-Tap-for-DIY-in-voron/blob/main/Jpg/20230516_163716491_iOS-m.jpg)
+![Image of Tap by Mario](https://github.com/mario73z/buffs-and-Tap-for-DIY-in-voron/blob/main/Jpg/20230516_171852115_iOS-m.jpg)
+![Image of Tap by Mario](https://github.com/mario73z/buffs-and-Tap-for-DIY-in-voron/blob/main/Jpg/20230516_173454670_iOS-m.jpg)
+![Image of Tap by Mario](https://github.com/mario73z/buffs-and-Tap-for-DIY-in-voron/blob/main/Jpg/20230516_203652587_iOS-m.jpg)
+![Image of Tap by Mario](https://github.com/mario73z/buffs-and-Tap-for-DIY-in-voron/blob/main/Jpg/dsm3-m.jpg)
+
+
 This project works perfectly for me. There is a noticeable change in the stiffness of the entire carriage with the extender.
 
 Some CAD design elements were downloaded from https://github.com/VoronDesign/
