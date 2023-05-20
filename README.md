@@ -16,14 +16,14 @@ XY reinforcements<br/>
 The only printed element is the stop end stop for X. The rest can be cut on cnc or by hand and thread M5 holes in the lower elements.
 
 We need to cut the tube (precisely) <br/>
-*4x30mm <br/>
-*2x20mm <br/>
-*8x10mm <br/>
+* 4x30mm <br/>
+* 2x20mm <br/>
+* 8x10mm <br/>
 
 Screws for threaded elements <br/>
-*M5x35 - 10 pcs <br/>
-*M5x45-2pcs <br/>
-*10 washers M5x1mm <br/>
+* M5x35 - 10 pcs <br/>
+* M5x45-2pcs <br/>
+* 10 washers M5x1mm <br/>
 
 we twist and we have a rigid connection, it worked perfectly for me.
   Most questions will be answered by looking at the design in the CAD catalog file for DesignSpark Mechanical.<br/>
