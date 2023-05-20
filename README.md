@@ -12,7 +12,7 @@ I know that many people have their own plotters or mini cnc milling machines, or
 
 ![Image of XY reinforcements by Mario](https://github.com/mario73z/buffs-and-Tap-for-DIY-in-voron/blob/main/Jpg/20230516_125437371_iOS-m.jpg)
 
-XY reinforcements<br/>
+## XY reinforcements<br/>
 The only printed element is the stop end stop for X. The rest can be cut on cnc or by hand and thread M5 holes in the lower elements.
 
 We need to cut the tube (precisely) <br/>
@@ -34,7 +34,7 @@ We twist and we have a rigid connection, it worked perfectly for me.
 ![Image of XY reinforcements by Mario](https://github.com/mario73z/buffs-and-Tap-for-DIY-in-voron/blob/main/Jpg/dsm1-m.jpg)
 ![Image of XY reinforcements by Mario](https://github.com/mario73z/buffs-and-Tap-for-DIY-in-voron/blob/main/Jpg/dsm2-m.jpg)
 
-TAP
+## TAP<br/>
 As before, we cut out elements from 2mm sheet metal and thread selected M3 holes. We print elements from the STL catalog. In some cases, it will probably be necessary to change the attachment element of the optical endstop for "Z", depending on its type. (I have my own design) You will need to change it in DesignSpark Mechanical.
 I pasted the magnet for the tap 7/3mm.
 This project works perfectly for me. There is a noticeable change in the stiffness of the entire carriage with the extender.
