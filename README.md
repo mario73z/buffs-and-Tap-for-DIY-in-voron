@@ -10,7 +10,7 @@ The main reason after the initial measurements turned out to be the plastic conn
 There are several ready-made solutions on the CNC market for these stiffeners, but I like to do something myself. And this is how I designed the "X" and "Y" reinforcements and Tap.
 I know that many people have their own plotters or mini cnc milling machines, or access to them. There are also a large number of people who like manual and can do something with their own hands, this is my post for you. For both modes, it is necessary to purchase a 2mm aluminum sheet, preferably PA9 or another with similar properties. And an aluminum pipe fi 10/1mm.
 
-![Image of Anycubic by Mario](https://github.com/mario73z/buffs-and-Tap-for-DIY-in-voron/blob/main/Jpg/20230516_125437371_iOS-m.jpg)
+![Image of Anycubic by Mario](https://github.com/mario73z/buffs-and-Tap-for-DIY-in-voron/blob/main/Jpg/20230516_125437420_iOS-m.jpg)
 
 XY reinforcements<br/>
 The only printed element is the stop end stop for X. The rest can be cut on cnc or by hand and thread M5 holes in the lower elements.
@@ -25,7 +25,8 @@ Screws for threaded elements <br/>
 * M5x45-2pcs <br/>
 * 10 washers M5x1mm <br/>
 
-we twist and we have a rigid connection, it worked perfectly for me.
+We twist and we have a rigid connection, it worked perfectly for me.
+
   Most questions will be answered by looking at the design in the CAD catalog file for DesignSpark Mechanical.<br/>
 
 TAP
